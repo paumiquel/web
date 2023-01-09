@@ -36,7 +36,6 @@
             <a href='index.php'>Inici</a>
         </header>
         
-        <?php require 'partials/header.php' ?>
 
         <?php if (!empty($user)): ?>
             <br>Benvingut/da 
